@@ -40,7 +40,7 @@ Data preprocessing is an essential step in any data project — it ensures that 
     pip install -r requirements.txt
    ```
 4. Launch Jupyter Notebook.
-5. Open any assignment notebook in the _assignments_ folder and run the cells.  
+5. Open any assignment notebook in the _exercises_ folder and run the cells.  
 
 Together, these exercises demonstrate practical data preprocessing workflows required before analysis or machine learning can be applied.
 
